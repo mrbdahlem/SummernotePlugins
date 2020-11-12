@@ -1,0 +1,12 @@
+[submodule "image-attributes"]
+	path = image-attributes
+	url = https://github.com/DiemenDesign/summernote-image-attributes
+[submodule "add-text-tags"]
+	path = add-text-tags
+	url = https://github.com/tylerecouture/summernote-add-text-tags
+[submodule "list-styles"]
+	path = list-styles
+	url = https://github.com/tylerecouture/summernote-list-styles
+[submodule "text-findnreplace"]
+	path = text-findnreplace
+	url = https://github.com/DiemenDesign/summernote-text-findnreplace
